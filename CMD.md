@@ -34,7 +34,7 @@ Si tienes un Mac para mostrar la linea de comandos, busca el Terminal.
  
  
  
- ## El Ejericio##
+ ## El Ejericio
  
 ### 1. Crear un nuevo Directorio en tu Desktop llamado test
 ### 2. Cambia al lugar de tu nuevo directorio
