@@ -33,3 +33,14 @@ Si tienes un Mac para mostrar la linea de comandos, busca el Terminal.
  - Para borrar todos los comandos del la linea de comandos.
  
  
+ 
+ ## El Ejericio##
+ 
+### 1. Crear un nuevo Directorio en tu Desktop llamado test
+### 2. Cambia al lugar de tu nuevo directorio
+### 3. Crea un nuevo archivo llamado test.txt, escribe lo que quieras eg: Hola!
+### 4. Copia el nuevo archivo y al mismo tiempo muevalo a tu Desktop
+### 5. Cambia el nombre del archivo copiado
+### 6. Borra el directorio que creaste y la fila en tu Desktop
+
+ 
