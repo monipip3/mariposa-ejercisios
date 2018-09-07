@@ -25,7 +25,11 @@ Si tienes un Mac para mostrar la linea de comandos, busca el Terminal.
    - Para retirar el archivo o el directorio completo 
  ### 7. 'cp' Copy (copiar):
    - Para copiar un archivo o directorio completo
- ### 7. 'touch'
+ ### 8. 'touch' (tocar)
   - Para crear un nuevo archivo
+ ### 9. 'find' (encontrar)
+ - Para enctonrar un archivo especifico 
+ ### 10. 'clear' (claro)
+ - Para borrar todos los comandos del la linea de comandos.
  
  
