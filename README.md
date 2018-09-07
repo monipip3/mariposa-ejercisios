@@ -18,10 +18,14 @@ Si tienes un Mac para mostrar la linea de comandos, busca el Terminal.
     + 'cd' o 'cd ~'. La comanda 'cd ../', te cambiara a un nivel, y 'cd ../ ../' te moveria dos niveles adelente. Por ejemplo,        si yo estoy en el directorio '/Users/monica/Desktop/proyectos' y despudes escribo 'cd ../        ../', me cambiara a          '/Users/monica'.
  ### 4. 'ls' List (lista)
   - Demuestra los contendios/archivos en ese directorio actual
- ### 5. 'mv'
- ### 6. 'rm'
- ### 7. 'cp'
+ ### 5. 'mv' <nombre del archivo/> <nombre de directiorio/> Move (mueve)
+  - Para mover archivos o directorios a otros directorios.
+    ***Nota*** : Tambien puedes cambiar el nombre del archivo con el comando mv cuando escribes 'mv <nombre del archivo/>                      <el nombre nuevo del archivo/>
+ ### 6. 'rm -f' Remove (retirar):
+   - Para retirar el archivo o el directorio completo 
+ ### 7. 'cp' Copy (copiar):
+   - Para copiar un archivo o directorio completo
  ### 7. 'touch'
-
+  - Para crear un nuevo archivo
  
  
