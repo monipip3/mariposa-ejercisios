@@ -1,7 +1,5 @@
 # Introduccion a Somos Mariposas (for english transaltion scroll down)
-
-
-
+![image] (https://github.com/monipip3/mariposa-ejercisios/blob/master/butterfly-1662471_1280.png)
 
 Hello World! My name is Monica, and I am here to present a new Youtube channel called “Somos Mariposas” translated into english “We are Butterflies”.
 I am a latina woman working in the tech industry in the United States, and I have seen the lack of representation, in the tech sector.
